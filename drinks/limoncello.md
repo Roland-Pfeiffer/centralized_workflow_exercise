@@ -3,7 +3,6 @@ Recipe for a limoncello
 Ingredients
 Liquor
 Lemons
-Instructions
 
 Instructions
 1. Select lemons
